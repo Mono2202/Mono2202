@@ -39,5 +39,3 @@
 ## 🧮 Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mono2202&hide=TeX&layout=compact&theme=dark)
-
-
