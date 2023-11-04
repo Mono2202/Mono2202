@@ -5,7 +5,7 @@
 </h2>
 
 <h3 align="center">
-        <samp>[18 years old, Senior, Programmer 👨‍💻]
+        <samp>[🙂🙂🙂🙂🙂]
 </h3>
 
 
